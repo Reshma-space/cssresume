@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 0;
+
+}
+.name{
+    background-color: rgb(240, 82, 87);
+    color: black;
+    text-align: center;
+
+}
+.objective{
+    background-color: bisque;
+    color: black;
+
+}
+.Projects{
+    background-color: #fc77a3;
+    color: black;
+}
+.int{
+    background-color: #b2d1b2;
+}
+.cer{
+    background-color: rgb(220, 149, 159);
+}
+.skills{
+    background-color: rgb(175, 128, 218);
+}
+.sskills{
+    background-color: rgb(225, 191, 87);
+}
+.edu{
+    background-color: rgb(241, 128, 192);
+}
+.other{
+    background-color: rgb(128, 181, 235);
+}
